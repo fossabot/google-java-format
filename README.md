@@ -1,4 +1,6 @@
 # google-java-format
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgoogle-java-format.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgoogle-java-format?ref=badge_shield)
+
 
 `google-java-format` is a program that reformats Java source code to comply with
 [Google Java Style][].
@@ -178,3 +180,6 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fgoogle-java-format.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fgoogle-java-format?ref=badge_large)
